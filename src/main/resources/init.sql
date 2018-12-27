@@ -1,0 +1,13 @@
+INSERT INTO public.collaborator (email, external, first_name, function, last_name) VALUES ('dapheuné@gmail.com', false, 'daphné', 'DEV', 'eboulé');
+INSERT INTO public.collaborator (email, external, first_name, function, last_name) VALUES ('mollion@carole.fr', false, 'caroline', 'PO', 'mollion');
+INSERT INTO public.collaborator (email, external, first_name, function, last_name) VALUES ('paulinho@pollino.fr', false, 'paulinho', 'PO', 'stephane');
+INSERT INTO public.collaborator (email, external, first_name, function, last_name) VALUES ('lemaitre', true, 'christophe', 'PO', 'lemaitre');
+INSERT INTO public.collaborator (email, external, first_name, function, last_name) VALUES ('traoré@gmail.com', true, 'siaka', 'DEV', 'traoré');
+INSERT INTO public.collaborator (email, external, first_name, function, last_name) VALUES ('chekini@gmail.com', true, 'mehdi', 'DEV', 'chekini');
+INSERT INTO public.collaborator (email, external, first_name, function, last_name) VALUES ('luffy@gmail.com', true, 'ataf', 'DEV', 'mohellebi');
+INSERT INTO public.collaborator (email, external, first_name, function, last_name) VALUES ('ismo@soulaimane.com', false, 'ismail', 'DEV', 'soulaimane');
+INSERT INTO public.collaborator (email, external, first_name, function, last_name) VALUES ('oriol@talan.fr', true, 'marjolaine', 'PO', 'oriol');
+INSERT INTO public.collaborator (email, external, first_name, function, last_name) VALUES ('thierry', true, 'thierry', 'SCRUM_MASTER', 'reymond');
+INSERT INTO public.collaborator (email, external, first_name, function, last_name) VALUES ('courtier', true, 'david', 'ARCHITECT', 'courtin');
+INSERT INTO public.collaborator (email, external, first_name, function, last_name) VALUES ('altolabs', true, 'alain', 'ARCHITECT', 'regnier');
+INSERT INTO public.collaborator (email, external, first_name, function, last_name) VALUES ('penan@gmail.com', true, 'penan', 'ARCHITECT', 'dedy');
